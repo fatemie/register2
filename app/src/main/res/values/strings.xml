@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">register2</string>
+    <string name="name">نام و نام خانوادگی</string>
+    <string name="startForm">فرم ثبت اطلاعات</string>
+    <string name="nationalCode">کدملی</string>
+    <string name="bornCity">محل تولد</string>
+    <string name="address">آدرس</string>
+    <string name="postalCode">کد پستی</string>
+    <string name="gender">جنسیت</string>
+    <string name="female">زن</string>
+    <string name="male">مرد</string>
+</resources>
