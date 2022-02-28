@@ -9,4 +9,7 @@
     <string name="gender">جنسیت</string>
     <string name="female">زن</string>
     <string name="male">مرد</string>
+    <string name="registerButton">ثبت اطلاعات</string>
+    <string name="showInfo">مشاهده ی اطلاعات ثبت شده</string>
+    <string name="editButton">تغییر اطلاعات</string>
 </resources>

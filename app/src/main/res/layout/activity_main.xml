@@ -20,6 +20,7 @@
         android:layout_margin="12dp"
         android:text="@string/startForm"
         android:textSize="20sp"
+        android:background="@color/green"
         tools:layout_editor_absoluteX="84dp"
         tools:layout_editor_absoluteY="305dp" />
 
@@ -111,7 +112,7 @@
         android:id="@+id/buttonRegister"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Register"
+        android:text="@string/registerButton"
         android:backgroundTint="@color/pink"
         android:textAllCaps="false"
         app:cornerRadius="100dp"

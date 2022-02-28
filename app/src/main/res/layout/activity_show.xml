@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShowActivity"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textViewStartShowInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/showInfo"
+        android:background="@color/green"
+        android:textColor="@color/green_text"
+        android:textSize="20sp"
+        android:layout_margin="12dp" />
+
+    <TextView
+        android:id="@+id/textViewNationalCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nationalCode"
+        android:background="@color/gray"
+        android:textSize="20sp"
+        android:layout_margin="12dp" />
+
+    <TextView
+        android:id="@+id/textViewBornCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bornCity"
+        android:background="@color/gray"
+        android:textSize="20sp"
+        android:layout_margin="12dp" />
+
+    <TextView
+        android:id="@+id/textViewAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/address"
+        android:background="@color/gray"
+        android:textSize="20sp"
+        android:layout_margin="12dp" />
+
+    <TextView
+        android:id="@+id/textViewPostalCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/postalCode"
+        android:background="@color/gray"
+        android:textSize="20sp"
+        android:layout_margin="12dp" />
+
+    <TextView
+        android:id="@+id/textViewGender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gender"
+        android:background="@color/gray"
+        android:textSize="20sp"
+        android:layout_margin="12dp" />
+
+    <Button
+        android:id="@+id/buttonEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/editButton"
+        android:backgroundTint="@color/pink"/>
+
+
+</LinearLayout>
