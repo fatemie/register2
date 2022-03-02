@@ -12,4 +12,5 @@
     <string name="registerButton">ثبت اطلاعات</string>
     <string name="showInfo">مشاهده ی اطلاعات ثبت شده</string>
     <string name="editButton">تغییر اطلاعات</string>
+    <string name="newUser">ورود کاربر جدید</string>
 </resources>
